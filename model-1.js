@@ -4,3 +4,4 @@ var dogAge = 3
 var humanAge = 21
 var isHappy = true
 var isEnergetic = true
+var dogColors = ["black", "brown", "white"]
